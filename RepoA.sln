@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepoA", "RepoA\RepoA.csproj", "{EA7B5F0C-4FF4-4C2E-9964-9E523270F3F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepoB", "RepoB\RepoB\RepoB.csproj", "{2BCC15BD-F911-4D48-B98D-A1390604B9DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{EA7B5F0C-4FF4-4C2E-9964-9E523270F3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA7B5F0C-4FF4-4C2E-9964-9E523270F3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA7B5F0C-4FF4-4C2E-9964-9E523270F3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BCC15BD-F911-4D48-B98D-A1390604B9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCC15BD-F911-4D48-B98D-A1390604B9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCC15BD-F911-4D48-B98D-A1390604B9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCC15BD-F911-4D48-B98D-A1390604B9DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
